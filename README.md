@@ -1,109 +1,173 @@
 # Mahathi-Manne
-<h1 align="center">Hi, I'm Mahathi M 👋</h1>
-<h3 align="center">Senior Data Engineer | AWS · Snowflake · PySpark · Python · SQL</h3>
+# 🚀 Mahathi M | Senior Data Engineer
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Mahathi+M!+%F0%9F%91%8B;Senior+Data+Engineer+%7C+4%2B+Years;Building+Scalable+Data+Pipelines;AWS+%7C+Snowflake+%7C+PySpark+%7C+Python;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
 
 <p align="center">
-  <a href="mailto:mahathim855@gmail.com"><img src="https://img.shields.io/badge/Email-mahathim855@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahathimanne/"><img src="https://img.shields.io/badge/LinkedIn-mahathimanne-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open_to-Data_Engineering_Roles-brightgreen?style=flat"/>
-  <img src="https://img.shields.io/badge/Location-USA_(Work_Authorized)-blue?style=flat"/>
+  <strong>Results-driven Senior Data Engineer with 4+ years of experience designing scalable data pipelines, cloud-based analytics platforms, and enterprise data warehouse solutions.</strong>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahathimanne/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahathim855@gmail.com)
+[![Location](https://img.shields.io/badge/Location-USA_(Work_Authorized)-008080?style=for-the-badge&logo=google-maps&logoColor=white)](https://google.com/maps)
+[![Open to Work](https://img.shields.io/badge/Open_to-Data_Engineering_Roles-brightgreen?style=for-the-badge)](mailto:mahathim855@gmail.com)
+
+---
+</div>
+
+## 🛠️ Tech Stack & Skills
+
+### ☁️ Cloud Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+</p>
+
+### ⚙️ Big Data & ETL/ELT Orchestration
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Azure_Data_Lake-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Lake" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="BigQuery" />
+</p>
+
+### 💻 Languages & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+### 🔧 DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+### 📊 Data Governance & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Lineage-6A0DAD?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Lineage" />
+  <img src="https://img.shields.io/badge/Data_Quality-1D9E75?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Data Quality" />
+  <img src="https://img.shields.io/badge/OLAP-FF6600?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="OLAP" />
+  <img src="https://img.shields.io/badge/KPI_Dashboards-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="KPI Dashboards" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 📈 GitHub Stats & Activity
 
-Results-driven **Senior Data Engineer** with **4+ years of experience** designing scalable data pipelines, cloud-based analytics platforms, and enterprise data warehouse solutions.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mahathi's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-Currently at **Boston Scientific**, I architect and optimize high-performance ETL/ELT workloads that process **10TB+ of healthcare data**, enabling real-time analytics and business intelligence at scale.
-
-- 🔭 Currently building healthcare analytics platforms at **Boston Scientific**
-- 🌩️ Deep expertise in **AWS, Azure, GCP** cloud ecosystems
-- ❄️ Snowflake architecture, query optimization & data modeling
-- 🔥 Large-scale data processing with **PySpark & Apache Spark**
-- 📐 Strong foundation in **dimensional modeling, data vault, and star/snowflake schemas**
-- 🤝 Cross-functional collaborator — partnering with Data Scientists, Product Owners & Business Leaders
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Core Impact & Experience
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+<details>
+<summary><b>🏥 Senior Data Engineer @ Boston Scientific — Arden Hills, USA (Jun 2024 – Present)</b></summary>
+<br>
 
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+* **Healthcare Data at Scale:** Lead end-to-end design, implementation, and optimization of complex data pipelines processing **10TB+** of structured and unstructured healthcare data to accelerate advanced analytics and BI initiatives.
+* **ETL Performance:** Architected high-performance ETL/ELT workloads using Python and AWS (S3, Lambda, EC2, RDS), improving data processing velocity and downstream application readiness by **30%**.
+* **Real-time Analytics:** Designed and maintained scalable data ingestion pipelines using Python and PySpark for high-volume healthcare datasets, enabling near real-time analytics and operational monitoring.
+* **Cost Optimization:** Optimized Snowflake storage and compute utilization through efficient data modeling, workload tuning, and query optimization — improving performance while reducing operational costs.
+* **Data Quality:** Developed automated data validation and transformation pipelines strengthening data quality controls, improving reporting accuracy, and ensuring consistent delivery of analytics-ready datasets across enterprise systems.
+* **Cross-functional Collaboration:** Aligned with Product Owners, Data Scientists, and business leaders to deliver trusted data assets supporting predictive analytics and strategic initiatives.
 
-### Data Engineering
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+</details>
 
-### Databases & Warehouses
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+<details>
+<summary><b>⚡ Software Engineer / Data Engineer @ DXC Technology (Client: AT&T) — Bangalore, India (Nov 2021 – Nov 2023)</b></summary>
+<br>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+* **Enterprise Data Pipelines:** Built and maintained ETL pipelines to ingest, transform, and load enterprise data from multiple sources supporting reporting and analytics requirements for AT&T systems.
+* **Query Optimization:** Optimized complex SQL queries and indexing strategies across Oracle and SQL Server databases, reducing query execution times by **15%** and significantly improving reporting performance.
+* **Data Consistency:** Engineered automated validation and transformation frameworks strengthening reporting accuracy and standardizing enterprise data consumption.
+* **Scalable Data Modeling:** Architected scalable data models and managed structured and semi-structured datasets across Oracle, SQL Server, and MongoDB, ensuring data integrity in high-volume environments.
+* **DevOps & Deployment:** Orchestrated production releases using Linux, Docker, Git, and CI/CD practices, increasing deployment consistency and operational efficiency.
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Healthcare Analytics Data Platform
-> **Boston Scientific** | Python · PySpark · AWS (S3, Lambda, RDS) · Snowflake
+<details>
+<summary><b>🏥 Healthcare Analytics Data Platform</b></summary>
+<br>
 
-Designed and implemented scalable ETL/ELT pipelines processing **10TB+ of structured and unstructured healthcare data**. Built automated data quality validation and SLA tracking frameworks, and developed dimensional data models to support enterprise reporting, analytics, and machine learning initiatives. Improved data processing velocity and downstream readiness by **30%**.
+> **Senior Data Engineer** | Python · PySpark · AWS (S3, Lambda, RDS) · Snowflake · Airflow
 
----
+- Designed and implemented scalable ETL/ELT pipelines processing **10TB+** of healthcare data
+- Built automated data quality validation, monitoring, and SLA tracking frameworks
+- Developed dimensional data models and optimized Snowflake workloads for enterprise reporting and ML initiatives
+- Improved processing velocity by **30%** through workload tuning and pipeline optimization
 
-### 📡 AT&T Billing Data Processing System
-> **DXC Technology** | Python · PySpark · Oracle · SQL Server
+🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/healthcare-analytics-platform)
 
-Engineered an automated data ingestion and validation engine processing **multi-million billing records daily** with **99.9% data consistency**. Re-architected storage access layers to handle highly volatile semi-structured data inputs, boosting database read/write efficiency across concurrent analytics workloads.
+</details>
 
----
+<details>
+<summary><b>📡 AT&T Billing Data Processing System</b></summary>
+<br>
 
-### 🔌 Data Processing & API Integration System
-> **DXC Technology** | Python · REST APIs · Docker · Linux · CI/CD
+> **Lead Data Engineer** | Python · PySpark · Oracle · SQL Server · Docker
 
-Designed microservices and robust API layers to automate secure data flows between internal services and external consumers. Optimized SQL queries and indexing strategies across Oracle and SQL Server, reducing query execution times by **15%**. Built automated monitoring and alerting scripts within Linux environments.
+- Engineered an automated data ingestion and validation engine processing **multi-million billing records daily**
+- Applied advanced data transformation logic using Python and PySpark, ensuring **99.9% data consistency** across enterprise datasets
+- Re-architected storage access layers boosting database read/write efficiency across concurrent analytics workloads
 
----
+🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/att-billing-pipeline)
 
-## 📊 GitHub Stats
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<details>
+<summary><b>🔌 Data Processing & API Integration System</b></summary>
+<br>
 
----
+> **Backend & Data Engineer** | Python · FastAPI · REST APIs · Docker · Linux · CI/CD
 
-## 💼 Experience Snapshot
+- Designed microservices and robust API layers to automate secure data flows between internal services and external consumers
+- Audited and overhauled legacy backend queries and indexing systems, mitigating bottlenecks during peak processing windows
+- Created automated monitoring and alerting scripts within Linux environments, reducing data incident response times significantly
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🔵 Senior Data Engineer | Boston Scientific, USA | Jun 2024 – Present |
-| 🟢 Software / Data Engineer | DXC Technology (AT&T), India | Nov 2021 – Nov 2023 |
+🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/data-api-integration)
+
+</details>
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **M.S. Information Technology Management** — Concordia University, Saint Paul MN *(Dec 2024)*
-- 🎓 **B.S. Computer Science & Engineering** — QIS College of Engineering and Technology, India *(Jul 2021)*
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 M.S. Information Technology Management | Concordia University, Saint Paul MN | Dec 2024 |
+| 🎓 B.S. Computer Science & Engineering | QIS College of Engineering and Technology, India | Jul 2021 |
 
 ---
 
@@ -111,11 +175,19 @@ Designed microservices and robust API layers to automate secure data flows betwe
 
 I'm open to **Senior Data Engineer**, **Data Platform Engineer**, and **Cloud Data Engineer** roles across the USA.
 
-<p align="center">
-  <a href="mailto:mahathim855@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mahathimanne/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahathimanne/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahathim855@gmail.com)
+
+</div>
 
 ---
 
-<p align="center"><i>"Turning raw data into reliable, scalable, and actionable insights."</i></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2563EB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br><br>
+  
+  <i>"Turning raw data into reliable, scalable, and actionable insights."</i>
+</div>
