@@ -1,4 +1,3 @@
-# Mahathi-Manne
 # 🚀 Mahathi M | Senior Data Engineer
 
 <div align="center">
@@ -73,15 +72,15 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mahathi's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahathim855-rgb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mahathi's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahathim855-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahathim855-rgb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -128,7 +127,7 @@
 - Developed dimensional data models and optimized Snowflake workloads for enterprise reporting and ML initiatives
 - Improved processing velocity by **30%** through workload tuning and pipeline optimization
 
-🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/healthcare-analytics-platform)
+🔗 [View Repository](https://github.com/mahathim855-rgb/healthcare-analytics-platform)
 
 </details>
 
@@ -142,7 +141,7 @@
 - Applied advanced data transformation logic using Python and PySpark, ensuring **99.9% data consistency** across enterprise datasets
 - Re-architected storage access layers boosting database read/write efficiency across concurrent analytics workloads
 
-🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/att-billing-pipeline)
+🔗 [View Repository](https://github.com/mahathim855-rgb/att-billing-pipeline)
 
 </details>
 
@@ -156,7 +155,7 @@
 - Audited and overhauled legacy backend queries and indexing systems, mitigating bottlenecks during peak processing windows
 - Created automated monitoring and alerting scripts within Linux environments, reducing data incident response times significantly
 
-🔗 [View Repository](https://github.com/YOUR_GITHUB_USERNAME/data-api-integration)
+🔗 [View Repository](https://github.com/mahathim855-rgb/data-api-integration)
 
 </details>
 
@@ -185,7 +184,7 @@ I'm open to **Senior Data Engineer**, **Data Platform Engineer**, and **Cloud Da
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2563EB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mahathim855-rgb&color=2563EB&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <br><br>
   
