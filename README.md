@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahathim855-rgb/mahathim855-rgb/main/profile.jpeg" alt="Mahathi M" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #2563EB;" />
+<a href="https://www.linkedin.com/in/mahathimanne/">
+  <img src="https://raw.githubusercontent.com/mahathim855-rgb/Mahathi-Manne/main/profile.jpeg" alt="Mahathi M" width="150" height="150" />
+</a>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Mahathi+M!+%F0%9F%91%8B;Senior+Data+Engineer+%7C+4%2B+Years;Building+Scalable+Data+Pipelines;AWS+%7C+Snowflake+%7C+PySpark+%7C+Python;Turning+Raw+Data+into+Business+Insights" alt="Typing SVG" />
 
